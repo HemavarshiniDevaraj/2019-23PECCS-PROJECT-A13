@@ -19,13 +19,18 @@ In this project, We suggest using Blockchain technology to improve security and 
 Project Requirements
 
 1. Software Requirements:
-	Operating System 	: Windows 10 or later
-	Tool   		: Eclipse
+
+Operating System 	: Windows 10 or later
+
+Tool   		: Eclipse
 	
 2. Hardware requirements:
-	Processor   		: Intel i5
-	Hard disk   		: minimum 10 GB
-	RAM        		: minimum 4 GB
+
+Processor   		: Intel i5
+
+Hard disk   		: minimum 10 GB
+
+RAM        		: minimum 4 GB
   
 LIST OF MODULES
 
